@@ -14,3 +14,7 @@ INSERT INTO Data_base VALUES (4, 'Марина', 24, 'Балаково');
 
 -- fetch 
 SELECT * FROM task2;
+
+-- git remote add origin https://github.com/Tatyana-Negashova/PHP_HW.git
+-- git branch -M main
+-- git push -u origin main
